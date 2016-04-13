@@ -1,0 +1,21 @@
+{
+  "name": "express-router-middleware",
+  "version": "0.0.1",
+  "description": "express-router-middleware",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "middleware",
+    "router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hubcarl/express-router-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hubcarl/express-router-middleware/issues"
+  },
+  "homepage": "https://github.com/hubcarl/express-router-middleware",
+  "author": "sky",
+  "license": "MIT"
+}
